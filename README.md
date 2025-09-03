@@ -11,8 +11,6 @@
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=ts" height="57" alt="typescript logo"  />
-  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="57" alt="react logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="57" alt="nextjs logo"  />
